@@ -1,0 +1,6 @@
+framework module Pods_HW_22_table_comments {
+  umbrella header "Pods-HW_22_table_comments-umbrella.h"
+
+  export *
+  module * { export * }
+}
